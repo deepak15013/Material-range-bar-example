@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timeline</string>
+
+    <string name="btn_start_thread">start thread</string>
+
+    <string name="btn_trim">trim</string>
+
+    <string name="tv_start">0</string>
+    <string name="tv_end">1</string>
+
+    <string name="tv_value">Left: %1$s \nRight: %2$s</string>
+</resources>
